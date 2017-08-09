@@ -1,8 +1,8 @@
-﻿using Xamarin.Forms;
-
-namespace ForeignExchangeMac0
+﻿namespace ForeignExchangeMac0
 {
-    public partial class ForeignExchangeMac0Page : ContentPage
+    using Xamarin.Forms;
+
+	public partial class ForeignExchangeMac0Page : ContentPage
     {
         public ForeignExchangeMac0Page()
         {
